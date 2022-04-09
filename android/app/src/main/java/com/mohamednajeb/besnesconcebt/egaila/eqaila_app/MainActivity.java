@@ -1,0 +1,6 @@
+package com.mohamednajeb.besnesconcebt.egaila.eqaila_app;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
